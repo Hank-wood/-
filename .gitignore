@@ -11,4 +11,5 @@ unmusic
 /fe/src/config/prod.js
 /bin/scp.dev.sh
 webpack-assets.json
+ureadme.md
 
