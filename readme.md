@@ -3,9 +3,15 @@
      Programming: Love It or Leave It , open source record
      
 <<<<<<< HEAD
+<<<<<<< HEAD
     q1
 =======
     q1
     a2
     a3
 >>>>>>> 434971d... a3
+=======
+    q1
+    a2
+    a3
+>>>>>>> origin/master
